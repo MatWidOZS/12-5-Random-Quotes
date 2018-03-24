@@ -15,8 +15,9 @@ h1 {
 	margin-bottom: 10vh;
 }
 
-p {
+h2, h3 {
 	text-align: center;
+	margin: 60px;
 }
 
 button {
@@ -30,7 +31,7 @@ button {
 	background-color: #0984e3;
 	border-radius: 5px;
 	cursor: pointer;
-	margin-bottom: 45px;
+	margin-top: 45px;
 }
 
 button:hover {
@@ -49,6 +50,7 @@ a {
 	border-radius: 5px;
 	padding: 15px;
 	text-align: center;
+	margin-top: 45px;
 }
 
 i {
